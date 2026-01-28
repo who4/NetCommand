@@ -1,7 +1,6 @@
 # NetCommand
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=NetCommand+Dashboard" alt="NetCommand Dashboard" width="100%" />
 
   **A Modern Network Command Center for Windows**
   
@@ -50,7 +49,7 @@ NetCommand is a robust desktop utility designed to give you complete control ove
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/netcommand.git
+   git clone https://github.com/who4/netcommand.git
    cd netcommand
    ```
 
