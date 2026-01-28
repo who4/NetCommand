@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.manifest
+*.spec
+
+# Environment
+.env
+venv/
+env/
+
+# Editor
+.vscode/
+.idea/
+
+# User Files (Security)
+ip.py  # Contains API Key - Exclude from repo
