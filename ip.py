@@ -1,7 +1,11 @@
 import socket
 import requests
+import os
+from dotenv import load_dotenv
 
-OPENCAGE_API_KEY = "64a4662212c044e2b53fded49b857d01"
+load_dotenv()
+
+OPENCAGE_API_KEY = os.getenv("OPENCAGE_API_KEY")
 
 
 def get_public_ip():
